@@ -1,3 +1,3 @@
-# inf-122
+# inf 122
 Emilio Adrian Mendoza Torrico
 inf 122
